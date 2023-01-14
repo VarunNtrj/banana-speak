@@ -2,5 +2,6 @@
 
 This webApp uses VanillaJS which is integrated into the index.html page.
 
-index.js is the javascript source which fetches https://api.funtranslations.com/translate/minion.json to translate 
-english to banana language.
+index.js fetches minion.json from https://funtranslations.com/ to translate 
+english to banana language. 
+You can also checkout Valyrian Translator in the code repo.
