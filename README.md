@@ -1,4 +1,4 @@
-#h1 Banana-speak
+# Banana-speak
 
 This webApp uses VanillaJS which is integrated into the index.html page.
 
